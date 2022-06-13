@@ -11,7 +11,7 @@
     <groupId>com.org.archi.grpc</groupId>
     <artifactId>grpc-billing-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>billing</name>
+    <name>grpc-server-billing-service</name>
     <description>Billing Service - GRPC Server</description>
     <properties>
         <java.version>13</java.version>
